@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jamisonvalentine/jamisonvalentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For potential employers: If you are curious about what I am working on or have been recently, you will not be able to see that here, unfortunately, as the work with my current employer is not public. For an idea of how often I am writing code and contributing to projects, see the graph for my work account (https://github.com/jvalentine-cni).
 
 Here are some ideas to get you started:
 
@@ -10,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 How to reach me \
+(984) 232-9007 \
+jamisont.valentine@gmail.com
